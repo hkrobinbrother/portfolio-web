@@ -6,15 +6,15 @@ const Projects = () => {
     {
       id: 1,
       title: "A gadget-heaven build with React and tailwind Css",
-      image: "/public/projectsImg/gadget-heven.png",
-      gitUrl:"https://github.com/hkrobinbrother/Gadget-heaven-8",
+      image: "/public/gadget-heven.png",
+      gitUrl:"https://i.ibb.co.com/7q2YmRP/gadget-heven.png",
       liveLink:"https://gadget-heven-77.netlify.app/"
     },
     {
       id: 1,
       title: "A online-movie build with React and tailwind Css",
-      image: "/public/projectsImg/online-movie.png",
-       gitUrl:"https://github.com/hkrobinbrother/online-movie",
+      image: "/public/online-movie.png",
+       gitUrl:"https://i.ibb.co.com/t0VjNRB/online-movie.png",
       liveLink:"https://online-movie-all.netlify.app/"
     },
   ];
