@@ -1,19 +1,20 @@
 import React from "react";
 import { FaGithub, FaLink } from "react-icons/fa";
-
+import img1 from "../../../public/cv/gadget-heven.png"
+import img2 from "../../../public/cv/online-movie.png"
 const Projects = () => {
   const projects = [
     {
       id: 1,
       title: "A gadget-heaven build with React and tailwind Css",
-      image: "/public/gadget-heven.png",
+      image: img1,
       gitUrl:"https://i.ibb.co.com/7q2YmRP/gadget-heven.png",
       liveLink:"https://gadget-heven-77.netlify.app/"
     },
     {
-      id: 1,
+      id: 2,
       title: "A online-movie build with React and tailwind Css",
-      image: "/public/online-movie.png",
+      image: img2,
        gitUrl:"https://i.ibb.co.com/t0VjNRB/online-movie.png",
       liveLink:"https://online-movie-all.netlify.app/"
     },
