@@ -36,7 +36,7 @@ const Projects = () => {
     },
   ];
   return (
-    <div className="container mx-auto">
+    <div id="project" className="container mx-auto">
       <div>
         <h1 className="text-6xl font-extrabold text-center mt-8">
           My <span className="text-amber-300">Projects</span>

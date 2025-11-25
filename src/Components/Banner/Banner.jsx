@@ -24,10 +24,8 @@ const Banner = () => {
               apply my skills and grow with a creative team.
             </p>
             <div className="space-x-2">
-              <button className="btn btn-primary rounded-full px-6 py-2  shadow-blue-900 shadow-lg items-center">
-                Contact <FontAwesomeIcon icon={faArrowRight} />
-              </button>
-              <a href="/public/cv/hasan-kabir-robin-resume (2).pdf" className="btn btn-primary rounded-full px-6 py-2  shadow-blue-900 shadow-lg items-center">
+             
+              <a href="/Hasan-Kabir-Resume (1).pdf.pdf" download="Hasan-Kabir-Resume.pdf.pdf" className="btn btn-primary rounded-full px-6 py-2  shadow-blue-900 shadow-lg items-center">
                 Download CV <FontAwesomeIcon icon={faCircleDown} />
               </a>
             </div>
