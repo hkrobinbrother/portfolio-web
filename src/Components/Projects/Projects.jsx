@@ -45,7 +45,7 @@ const Projects = () => {
       <div className="gird grid-cols-1 md:grid-cols-2 flex gap-8 mt-8 rounded-lg">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8 rounded-lg">
           {projects.map((project) => (
-            <div className="">
+            <div key={project.id} className="">
               <div className="group">
                 <img
                   src={project.image}
