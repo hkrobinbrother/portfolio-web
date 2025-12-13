@@ -4,6 +4,7 @@ import img1 from "../../../public/cv/gadget-heven.png";
 import img2 from "../../../public/cv/online-movie.png";
 import img3 from "../../../public/cv/free-food.png";
 import img4 from "../../../public/cv/nest-mart.png";
+import img5 from "../../../public/cv/cafe-ali.png";
 const Projects = () => {
   const projects = [
     {
@@ -29,11 +30,19 @@ const Projects = () => {
     },
     {
       id: 4,
-      title: "A grocery website build with React and tailwind Css",
+      title: "A Restaurant website build with React and tailwind Css",
       image: img4,
       gitUrl: "https://github.com/hkrobinbrother/nest-mart",
       liveLink: "https://nest-mart-kappa.vercel.app/",
     },
+    {
+      id: 5,
+      title: "A Restaurant website build with frontend and backend based",
+      image: img5,
+      gitUrl: "https://github.com/hkrobinbrother/cafe-ali-client",
+      liveLink: " https://cafe-ali-94d82.web.app",
+    },
+
   ];
   return (
     <div id="project" className="container mx-auto px-2">
