@@ -28,8 +28,8 @@ const About = () => {
             <h1 className="flex items-center gap-2"><FaPhoneAlt  className="text-3xl text-green-400" /> <span className="text-xl font-bold ml-2">01302012386</span></h1>
           </div>
           <a
-            href="/Hasan-Kabir-Resume (1).pdf.pdf"
-            download="Hasan-Kabir-Resume.pdf.pdf"
+            href="/Hasan-Kabir-Robin-Resume.pdf"
+            download="Hasan-Kabir-Robin-Resume.pdf"
             className="btn btn-primary rounded-full px-6 py-2  shadow-blue-900 shadow-lg items-center mt-2"
           >
             Download CV <FaDownload />
