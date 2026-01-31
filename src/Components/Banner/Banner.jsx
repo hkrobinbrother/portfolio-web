@@ -1,10 +1,8 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-import { faCircleDown } from "@fortawesome/free-regular-svg-icons";
 
 const Banner = () => {
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto text-white">
       <div className="hero min-h-screen">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img

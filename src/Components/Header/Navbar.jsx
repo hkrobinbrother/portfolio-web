@@ -7,7 +7,7 @@ import {
 
 const Navbar = () => {
   return (
-    <div className=" w-full sticky top-0 bg-black/10 ">
+    <div className=" w-full sticky top-0 text-white bg-black/10 ">
       <div className="navbar md:w-10/12 mx-auto flex">
         <div className="navbar-start">
           <div className="dropdown">

@@ -45,7 +45,7 @@ const Projects = () => {
 
   ];
   return (
-    <div id="project" className="container mx-auto px-2">
+    <div id="project" className="container mx-auto text-white px-2">
       <div>
         <h1 className="text-6xl font-extrabold text-center mt-8">
           My <span className="text-amber-300">Projects</span>

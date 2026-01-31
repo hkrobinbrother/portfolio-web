@@ -4,11 +4,11 @@ import { FaPhoneAlt } from "react-icons/fa";
 
 const About = () => {
   return (
-    <div id="about"  className="hero bg-base-200 min-h-screen">
+    <div id="about"  className="hero text-white min-h-screen">
       <div className="hero-content flex-col lg:flex-row-reverse gap-10 ">
         <div className=" space-y-2">
           <div className="flex justify-start">
-            <h1 className="py-2 px-4 bg-blue-100 rounded-full font-bold shadow shadow-blue-300">
+            <h1 className="py-2 px-4 bg-blue-100 text-black rounded-full font-bold shadow shadow-blue-300">
               About Me
             </h1>
           </div>
